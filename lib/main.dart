@@ -73,6 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       log("onMessageOpenedApp message received! ${message.data}");
     });
     // getIntialMessage();
+    //sdfg
   }
 
   @override
